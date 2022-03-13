@@ -272,7 +272,6 @@ public class Login_SQL extends javax.swing.JFrame {
                 main=new MainFrame(Data);
                 this.dispose();
                 main.setVisible(rootPaneCheckingEnabled);
-                //haha
             }
             else
             {
